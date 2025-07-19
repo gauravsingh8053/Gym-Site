@@ -84,8 +84,7 @@ gym-website/
 
 ## 👨‍💻 Author
 
-**Aryan Sharma**  
-B.Tech CSE (AI & DS) | Poornima University  
-GitHub: [@AryanSharma2206](https://github.com/AryanSharma2206)  
-LinkedIn: [linkedin.com/in/aryan-sharma-a2a240353](https://www.linkedin.com/in/aryan-sharma-a2a240353)  
+**Gaurav Singh**  
+System Administrator  
+GitHub: [@gauravsingh8053](https://github.com/gauravsingh)  
 Location: Jaipur, India
