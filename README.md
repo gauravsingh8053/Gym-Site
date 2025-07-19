@@ -1,6 +1,6 @@
 # 🏋️‍♂️ All Time Fitness - Gym Website
 
-This repository contains the source code for **All Time Fitness**, a fully responsive and dynamic gym website developed by **Aryan Sharma**. The website is built using **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**, and is designed to serve both members and administrators of a fitness center.
+This repository contains the source code for **All Time Fitness**, a fully responsive and dynamic gym website developed by **Gaurav Singh**. The website is built using **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**, and is designed to serve both members and administrators of a fitness center.
 
 ---
 
