@@ -86,5 +86,5 @@ gym-website/
 
 **Gaurav Singh**  
 System Administrator  
-GitHub: [@gauravsingh8053](https://github.com/gauravsingh)  
+GitHub: [@gauravsingh8053](https://github.com/gauravsingh8053)  
 Location: Jaipur, India
