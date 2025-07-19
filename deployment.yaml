@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mywebsite-deployment
+spec:
+  replicas: 2  # Number of instances (pods) of your app
+  selector:
+    matchLabels:
+      app: mywebsite
+  template:
+    metadata:
+      labels:
+        app: mywebsite
+    spec:
+      containers:
+      - name: mywebsite
+        image: mywebsite:latest  # Replace with your actual image name
+        ports:
+        - containerPort: 80
+

@@ -1,0 +1,20 @@
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: website-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: website
+  template:
+    metadata:
+      labels:
+        app: website
+    spec:
+      containers:
+      - name: website
+        image: aryansharma2206/my-website-image:latest  # Replace with your Docker image name
+        ports:
+        - containerPort: 80
+
