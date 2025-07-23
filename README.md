@@ -53,7 +53,7 @@ gym-website/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AryanSharma2206/gym-website.git
+   git clone https://github.com/gauravsingh8053/gym-site.git
    cd gym-website
    ```
 
